@@ -3,5 +3,6 @@
 #![allow(non_snake_case)]
 #![allow(clippy::missing_safety_doc)]
 #![allow(clippy::useless_transmute)]
+#![allow(unsafe_op_in_unsafe_fn)]
 
 include!("bindings.rs");

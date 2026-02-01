@@ -14,4 +14,4 @@ links = "libxdp"
 [build-dependencies]
 bindgen = "0.72"
 pkg-config = "0.3"
-xshell = "0.2.7"
+xshell = "0.2"
